@@ -1,0 +1,1 @@
+plink.exe -ssh {IP ADDRESS} -l {USER} -pw {PASSWORD} -m {path to}\putty_reasoning_cmds.txt

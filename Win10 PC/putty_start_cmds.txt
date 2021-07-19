@@ -1,0 +1,2 @@
+cd Desktop/iot_scripts/functional_scripts
+sh start_all.sh

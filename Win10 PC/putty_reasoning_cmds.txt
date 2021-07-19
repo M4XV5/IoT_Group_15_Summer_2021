@@ -1,0 +1,2 @@
+cd Desktop/iot_scripts/reasoning_unit
+./reasoning_main.py

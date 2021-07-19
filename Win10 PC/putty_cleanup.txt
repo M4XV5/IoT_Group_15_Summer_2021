@@ -1,0 +1,2 @@
+cd Desktop/iot_scripts/functional_scripts
+python3 pin_cleaner.py
